@@ -1,4 +1,4 @@
-student_name = "Obsan Adugna"
+student_name = "Obsan Adugna"  
 age = 22 
 balance =1500.50
 is_enrolled = True
